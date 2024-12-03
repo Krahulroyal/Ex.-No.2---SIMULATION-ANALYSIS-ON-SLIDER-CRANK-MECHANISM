@@ -37,10 +37,9 @@
 
 
 ## Output
-![Screenshot 2024-12-03 170044](https://github.com/user-attachments/assets/da100626-5f64-4726-8ed1-3ae7367a3d5e)
-![Screenshot 2024-12-03 165654](https://github.com/user-attachments/assets/b6bfde41-0200-4bd6-9c9e-f637664f52ba)
-![Screenshot 2024-12-03 170113](https://github.com/user-attachments/assets/4c487337-6e35-4e9c-a510-a544f9ec98b4)
-
+![Screenshot 2024-12-03 170044](https://github.com/user-attachments/assets/fa145a33-567b-4bb6-ad33-efc222c6f874)
+![Screenshot 2024-12-03 165654](https://github.com/user-attachments/assets/ac7ea238-e10e-4598-a15e-0617e15449aa)
+![Screenshot 2024-12-03 170113](https://github.com/user-attachments/assets/bdc17b77-0c1b-481d-b64b-568629ed7c84)
 
 ### Name:K Rahul Royal
 ### Register Number: 24001378
